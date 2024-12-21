@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 👋, I am'm Suyog Tandel a.k.a RedddFoxxyy</h1>
+<h1 align="center">Namaste 👋, I am Suyog Tandel a.k.a RedddFoxxyy</h1>
 <h3 align="center">A passionate game and web developer from India</h3>
 
 - 🔭 I’m currently working on **Terra Tactica** and **Rhyolite**
