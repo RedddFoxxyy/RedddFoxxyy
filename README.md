@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 👋, I am'm Suyog Tandel a.k.a RedddFoxxyy</h1>
 <h3 align="center">A passionate game and web developer from India</h3>
 
-- 🔭 I’m currently working on **Terra Tactica**
+- 🔭 I’m currently working on **Terra Tactica** and **Rhyolite**
 
 - 🤝 I’m looking for help with [Rhyolite](https://github.com/RedddFoxxyy/Rhyolite)
 
