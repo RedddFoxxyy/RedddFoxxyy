@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Terra Tactica](https://terra-tactica.com/)<br>🤝 I’m looking for help with [Rhyolite](https://github.com/RedddFoxxyy/Rhyolite)<br>🌱 I’m currently learning [Svelte](https://svelte.dev/)
+🔭 I’m currently working on [Rhyolite](https://rhyolite.xyz/)<br>🤝 I’m looking for help with [Rhyolite](https://github.com/RedddFoxxyy/Rhyolite)<br>🌱 I’m currently learning [Svelte](https://svelte.dev/)
 
 
 ## 🌐 Socials:
